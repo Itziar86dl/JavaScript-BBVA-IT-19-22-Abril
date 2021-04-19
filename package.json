@@ -1,0 +1,19 @@
+{
+  "name": "bbva-2021",
+  "version": "1.0.0",
+  "description": "Curso ES - BBVA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IconoTraining/JavaScript-BBVA-IT-19-22-Abril.git"
+  },
+  "author": "Alejandro Cerezo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IconoTraining/JavaScript-BBVA-IT-19-22-Abril/issues"
+  },
+  "homepage": "https://github.com/IconoTraining/JavaScript-BBVA-IT-19-22-Abril#readme"
+}
